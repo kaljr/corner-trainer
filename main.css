@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.corner {
+    position: absolute;
+    width: 50px;
+}
+
+#corner1 {
+    transform: translate(-50%, -50%);
+}
